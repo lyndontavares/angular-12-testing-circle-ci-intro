@@ -1,6 +1,6 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://opensource.org/licenses/MIT)
 
-[![CircleCI](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro.svg?style=svg)](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro)
+[![CircleCI](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro.svg?style=shield)](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro)
 
 # App
 
