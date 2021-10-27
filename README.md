@@ -6,6 +6,10 @@ Workshop - Angular Testing
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](http://opensource.org/licenses/MIT)
 [![CircleCI](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro.svg?style=shield)](https://circleci.com/gh/lyndontavares/angular-12-testing-circle-ci-intro)
 
+Este repositório faz parte do workshop sobre Angular testing com Jasmine e Karma. Realizado em novembro de 2021.
+https://github.com/lyndontavares/angular-12-testing-circle-ci-intro
+
+
 # App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
