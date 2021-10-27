@@ -1,4 +1,4 @@
-Introdução workshop - Angular Testing
+Workshop - Angular Testing
 ================================
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
